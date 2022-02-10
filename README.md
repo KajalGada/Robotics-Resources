@@ -38,3 +38,7 @@ A list of robotics resources. This list is geared towards students and early car
 
   + Great for getting help on using webots. It includes members who have created the webots software from Cyberbotics.
 
++ Women in Robotics - Slack Channel - womeninrobotics.slack.com
+
+  + A great place to find upcoming events and connect with women in Robotics.
+
