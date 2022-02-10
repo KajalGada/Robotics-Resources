@@ -19,6 +19,10 @@ A list of robotics resources. This list is geared towards students and early car
 + Weekly Robotics - https://www.weeklyrobotics.com/
   
   + Round up of news on Robotics, study material, new resources & more.
+
++ Robotics Worldwide - http://robotics-worldwide.org
+
+  + A community newsletter. Good place to find out about conferences and robotics positions (jobs, post-doc, etc.) in academia.
   
 # Groups/ Community
 
