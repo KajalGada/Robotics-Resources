@@ -20,9 +20,21 @@ A list of robotics resources. This list is geared towards students and early car
   
   + Round up of news on Robotics, study material, new resources & more.
   
-# Groups
+# Groups/ Community
 
 + Robot Operations Group - https://robops.org/
   
   + Focused on scaling robotics (think about when you're starting to mass-produce and deploy at many sites, beyond the proof-of-concept).
+
++ Robotics Discord Channel - https://discord.gg/nYqMzHRW2V
+
+  + Discord community for getting help, finding teammates and resource sharing in Robotics.
+
++ Alphabot - Robotics Community - Discord Channel - https://discord.gg/SDUDkGCszs
+
+  + ...
+
++ Webots Discord Channel - https://discord.gg/meCvmn4WUx
+
+  + Great for getting help on using webots. It includes members who have created the webots software from Cyberbotics.
 
