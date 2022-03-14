@@ -46,3 +46,8 @@ A list of robotics resources. This list is geared towards students and early car
 
   + A great place to find upcoming events and connect with women in Robotics.
 
+
+# Blogs
+
++ Kris Hauser - https://hauser-kris.medium.com
+
